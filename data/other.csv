@@ -6,6 +6,7 @@ name,source,gender,wikidata,type
 "Balaton utca",wikidata,,Q6383,way
 "Bank utca",wikidata,,Q22687,way
 "Duna korzó",wikidata,,Q1653,way
+"Ferenciek tere",wikidata,,Q17123204,way
 "Hercegprímás utca",wikidata,,Q315652,way
 "Hold utca",wikidata,,Q405,way
 "Kuruclesi út",wikidata,,Q281171,way
@@ -807,6 +808,7 @@ Alakulótér,,,,way
 "Bóné András utca",,,,way
 "Bonyhádi út",,,,way
 "Bor utca",,,,way
+"Boráros tér H",,,,way
 "Boráros téri aluljáró",,,,relation
 "Borbála lépcső",,,,way
 "Borbély utca",,,,way
@@ -883,6 +885,7 @@ Alakulótér,,,,way
 "Buda vezér utca",,,,way
 "Buda-part tér",,,,way
 "Budafoki út",,,,way
+Budagyöngye,,,,way
 "Budai Nagy Antal utca",,,,way
 "Budajenő utca",,,,way
 "Budakalász utca",,,,way
@@ -925,6 +928,7 @@ Alakulótér,,,,way
 "Bőszénfa utca",,,,way
 "C udvar",,,,way
 "Campona utca",,,,way
+"Campus tér",,,,way
 "Cankó tér",,,,way
 "Caprera tér",,,,way
 "Caprera utca",,,,way
@@ -937,7 +941,7 @@ Alakulótér,,,,way
 "Cement utca",,,,way
 "Cenk utca",,,,way
 "Cenkhegy utca",,,,way
-"Centenáriumi sétány",,,,way
+"Centenárium sétány",,,,way
 "Central Passage",,,,way
 "Cházár András utca",,,,way
 "Chinoin utca",,,,way
@@ -1816,7 +1820,6 @@ Csepel-sziget,,,,relation
 "Ferenc utca",,,,way
 "Ferenchegyi lépcső",,,,way
 "Ferenchegyi út",,,,way
-"Ferenciek tere",,,,way
 "Ferenciek tere, aluljáró",,,,way
 "Ferenczi Sándor utca",,,,way
 "Ferencziek Bazára",,,,way
@@ -3358,6 +3361,7 @@ Karaván,,,,way
 "Kneipp ösvény",,,,way
 "Knézich utca",,,,way
 "Knézits Károly utca",,,,way
+"Knézits utca",,,,way
 "Knoll József utca",,,,way
 "Köbölkút utca",,,,way
 "Kóborló köz",,,,way
@@ -3451,6 +3455,7 @@ Karaván,,,,way
 "Korányi Frigyes út",,,,way
 "Korányi Frigyes utca",,,,way
 "Korányi Sándor utca",,,,way
+"Korányi ösvény",,,,way
 "Kordován tér",,,,way
 "Kórház köz",,,,way
 "Kórház utca",,,,way
@@ -4044,6 +4049,7 @@ M3,,,,way
 "Máramarosi utca",,,,way
 "Máramarossziget utca",,,,way
 "Marcell utca",,,,way
+"Màrcius 15. tér",,,,way
 "Március 15. utca",,,,way
 "Március utca",,,,way
 "Marcus Aurelius köz",,,,way
@@ -6473,6 +6479,7 @@ Széchenyi-sziget,,,,relation
 "Új utca",,,,way
 "Újarad utca",,,,way
 "Újbor utca",,,,way
+"Újbuda-központ M",,,,way
 "Újbuda-központ, aluljáró",,,,way
 "Újfalusi út",,,,way
 "Újház utca",,,,way
@@ -6719,7 +6726,7 @@ Városmajor,,,,way
 "Vendég utca",,,,way
 "Vendel sétány",,,,way
 "Vendel utca",,,,way
-"Venetiáner utca",,,,way
+"Venetianer utca",,,,way
 "Vénusz utca",,,,way
 "Vép utca",,,,way
 "Vera utca",,,,way
