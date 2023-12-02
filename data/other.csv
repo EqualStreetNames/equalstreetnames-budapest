@@ -710,6 +710,7 @@ Alakulótér,,,,way
 "Bezerédj utca",,,,way
 "Bezsilla Nándor utca",,,,way
 "Bianka utca",,,,way
+"Bíbic köz",,,,way
 "Bíbic utca",,,,way
 "Biblia utca",,,,way
 "Bíbor utca",,,,way
@@ -808,6 +809,7 @@ Alakulótér,,,,way
 "Bóné András utca",,,,way
 "Bonyhádi út",,,,way
 "Bor utca",,,,way
+"Boráros Tér",,,,way
 "Boráros tér H",,,,way
 "Boráros téri aluljáró",,,,relation
 "Borbála lépcső",,,,way
@@ -3364,6 +3366,7 @@ Karaván,,,,way
 "Kléh István utca",,,,way
 "Kmety György utca",,,,way
 "Kneipp ösvény",,,,way
+Kneipp-ösvény,,,,way
 "Knézich utca",,,,way
 "Knézits Károly utca",,,,way
 "Knézits utca",,,,way
@@ -3487,6 +3490,7 @@ Karaván,,,,way
 "Korongozó utca",,,,way
 "Körös köz",,,,way
 "Körös utca",,,,way
+"Körösszeg utca",,,,way
 "Köröstói utca",,,,way
 "Korpona utca",,,,way
 "Korponai utca",,,,way
@@ -3662,7 +3666,6 @@ Karaván,,,,way
 "Kőrösi Csoma Sándor út",,,,way
 "Kőrösi Csoma sétány",,,,way
 "Kőrösi Sándor utca",,,,way
-"Kőrösszeg utca",,,,way
 "Kőrösy József utca",,,,way
 "Kőrózsa utca",,,,way
 "Kőszál utca",,,,way
@@ -3946,6 +3949,7 @@ M1,,,,way
 M2,,,,way
 M3,,,,way
 "MÁV telep",,,,way
+"MM Széll Kálmán tér M",,,,way
 "MOM park",,,,relation
 "Maci köz",,,,way
 "Mackó utca",,,,way
@@ -4019,7 +4023,6 @@ M3,,,,way
 "Makk utca",,,,way
 "Makkos utca",,,,way
 "Makkosi út",,,,way
-"Makó László utca",,,,way
 "Makó Pál utca",,,,way
 "Makói utca",,,,way
 "Makovecz Imre utca",,,,way
@@ -4056,7 +4059,6 @@ M3,,,,way
 "Máramarosi utca",,,,way
 "Máramarossziget utca",,,,way
 "Marcell utca",,,,way
-"Màrcius 15. tér",,,,way
 "Március 15. utca",,,,way
 "Március utca",,,,way
 "Marcus Aurelius köz",,,,way
@@ -5999,6 +6001,7 @@ Széchenyi-sziget,,,,relation
 "Szomory Dezső tér",,,,way
 "Szomszéd utca",,,,way
 "Szonáta utca",,,,way
+"Szondi tér",,,,way
 "Szondi utca",,,,way
 "Szörény utca",,,,way
 "Szováta utca",,,,way
