@@ -1,66 +1,186 @@
 name,source,gender,wikidata,type
 "Blaha Lujza tér",wikidata,F,Q258990,way
+"Dorottya utca",wikidata,F,Q61103,way
+"Izabella utca",wikidata,F,Q235591,way
 "Jászai Mari tér",wikidata,F,Q220488,way
 "Margit híd",wikidata,F,Q232031,relation+way
-"Ajtósi Dürer sor",wikidata,M,Q535910,way
+Margit-sziget,wikidata,F,Q232031,relation
+"Márkus Emília utca",wikidata,F,Q286674,way
+"Psota Irén utca",wikidata,F,Q1241161,way
+"Szilágyi Erzsébet fasor",wikidata,F,Q534860,way
+"Abonyi utca",wikidata,M,Q323626,way
+"Ady Endre út",wikidata,M,Q211392,way
+"Ajtósi Dürer sor",wikidata,M,Q5580,way
 "Andrássy út",wikidata,M,Q313557,way
+"Angelo Rotta rakpart",wikidata,M,Q536546,way
+"Apáczai Csere János utca",wikidata,M,Q774310,way
+"Apáthy István utca",wikidata,M,Q774381,way
 "Arany János utca",wikidata,M,Q316556,way
-"Aulich utca",wikidata,M,Q506929,way
+"Árpád fejedelem útja",wikidata,M,Q210207,way
+"Aulich utca",wikidata,M,Q405;Q506929,way
 "Babits Mihály sétány",wikidata,M,Q332482,way
 "Bajcsy-Zsilinszky út",wikidata,M,Q180734,way
 "Bakáts tér",wikidata,M,Q648686,way
+"Balassa utca",wikidata,M,Q379599,way
 "Balassi Bálint utca",wikidata,M,Q379599,way
 "Baross tér",wikidata,M,Q450178,way
+"Bartók Béla út",wikidata,M,Q83326,relation+way
 "Báthory utca",wikidata,M,Q54030,way
 "Batthyány tér",wikidata,M,Q702016,relation+way
+"Batthyány utca",wikidata,M,Q702016,way
 "Bauer Sándor utca",wikidata,M,Q791482,way
+"Bem József tér",wikidata,M,Q266339,way
+"Bem József utca",wikidata,M,Q266339,way
+"Bem rakpart",wikidata,M,Q266339,way
+"Bertalan Lajos utca",wikidata,M,Q793757,way
 "Bihari János utca",wikidata,M,Q794815,way
+"Bocskai út",wikidata,M,Q316530,way
+"Bókay János utca",wikidata,M,Q854929,way
 "Boráros tér",wikidata,M,Q848158,relation+way
 "Bródy Sándor utca",wikidata,M,Q738786,way
+"Budai Nagy Antal utca",wikidata,M,Q718139,way
+"Carl Lutz rakpart",wikidata,M,Q637057,way
+"Cházár András utca",wikidata,M,Q867134,way
+"Clark Ádám tér",wikidata,M,Q572278,way
+"Csányi utca",wikidata,M,Q875323,way
+"Csengery utca",wikidata,M,Q447827,way
+"Damjanich utca",wikidata,M,Q695383,way
 "Dankó utca",wikidata,M,Q901819,way
 "Deák Ferenc híd",wikidata,M,Q508823,way
+"Deák Ferenc tér",wikidata,M,Q508823,way
+"Deák Ferenc utca",wikidata,M,Q508823,way
+"Dembinszky utca",wikidata,M,Q970945,way
+"Ditrói Mór utca",wikidata,M,Q12352998,way
+"Döbrentei tér",wikidata,M,Q762556,way
+"Döbrentei utca",wikidata,M,Q762556,way
+"Dohnányi Ernő utca",wikidata,M,Q78532,way
+"Dózsa György tér",wikidata,M,Q366978,way
 "Dózsa György út",wikidata,M,Q366978,way
+"Dvořák sétány",wikidata,M,Q7298,way
 "Edison tér",wikidata,M,Q8743,way
+"Egry József utca",wikidata,M,Q447813,way
+"Eötvös utca",wikidata,M,Q469996,way
 "Falk Miksa utca",wikidata,M,Q897249,way
+"Fejér Lipót utca",wikidata,M,Q963663,way
+"Frankel Leó út",wikidata,M,Q700018,way
+"Friedrich Born rakpart",wikidata,M,Q117195,way
 "Garibaldi utca",wikidata,M,Q539,way
+"Gogol utca",wikidata,M,Q43718,way
+"Goldmann György tér",wikidata,M,Q16520063,way
+"Gundel Károly út",wikidata,M,Q1028770,way
 "Gutenberg tér",wikidata,M,Q8958,way
+"Gyulai Pál utca",wikidata,M,Q898398,way
+"Haller utca",wikidata,M,Q1032997,way
+"Hegedűs Gyula utca",wikidata,M,Q966274,way
 "Hild tér",wikidata,M,Q1036379,way
+"Himfy utca",wikidata,M,Q670247,way
+"Hock János utca",wikidata,M,Q656266,way
+"Hollán Ernő utca",wikidata,M,Q601686,way
+"Horánszky utca",wikidata,M,Q1055733,way
 "Horváth Mihály tér",wikidata,M,Q638350,relation+way
 "Hubay Jenő tér",wikidata,M,Q709178,way
+"Hunyadi János út",wikidata,M,Q242688,way
 "II. János Pál pápa tér",wikidata,M,Q989,way
 "Id. Antall József rakpart",wikidata,M,Q355907,way
+"Irányi utca",wikidata,M,Q930952,way
+"Irinyi József utca",wikidata,M,Q261913,way
+"Izsó utca",wikidata,M,Q1099003,way
+"Jósika utca",wikidata,M,Q634047,way
 "József Attila utca",wikidata,M,Q313359,way
 "József nádor tér",wikidata,M,Q319764,relation+way
+"Kacsóh Pongrác út",wikidata,M,Q1103173,way
+"Káldy Gyula utca",wikidata,M,Q1122809,way
 "Kálmán Imre utca",wikidata,M,Q153818,way
 "Kálvin tér",wikidata,M,Q37577,way
 "Karácsony Sándor utca",wikidata,M,Q112208165,way
+"Karinthy Frigyes út",wikidata,M,Q366325,way
+"Károli Gáspár tér",wikidata,M,Q304346,way
+"Katona József utca",wikidata,M,Q149415,way
+"Kazinczy utca",wikidata,M,Q381865,way
 "Kiss Ernő utca",wikidata,M,Q699111,way
+"Kodály körönd",wikidata,M,Q153008,way
+"Kós Károly sétány",wikidata,M,Q854411,way
+"Kosciuszkó Tádé utca",wikidata,M,Q191479,way
 "Kossuth Lajos tér",wikidata,M,Q157040,relation+way
+"Kossuth Lajos utca",wikidata,M,Q157040,way
 "Kozma Ferenc utca",wikidata,M,Q1120614,way
+"Kresz Géza utca",wikidata,M,Q1120969,way
+"Krúdy Gyula utca",wikidata,M,Q527239,way
+"Kuny Domokos utca",wikidata,M,Q1122049,way
+"Lajos utca",wikidata,M,Q53998,way
+"Lev Tolsztoj sétány",wikidata,M,Q7243,way
 "Liszt Ferenc tér",wikidata,M,Q41309,way
+"Lónyay utca",wikidata,M,Q701575,way
+"Lovassy László utca",wikidata,M,Q598317,way
 "Lőrinc pap tér",wikidata,M,Q25466353,way
 "Madách Imre tér",wikidata,M,Q366331,relation
+"Marek József utca",wikidata,M,Q368678,way
 "Markó utca",wikidata,M,Q938311,way
+"Mikes Kelemen utca",wikidata,M,Q540184,way
 "Mikszáth Kálmán tér",wikidata,M,Q350552,way
+"Molnár C. Pál lejtő",wikidata,M,Q509411,way
+"Munkácsy Mihály utca",wikidata,M,Q551652,way
 "Nádor utca",wikidata,M,Q319764,way
 "Nagy Ignác utca",wikidata,M,Q793620,way
+"Nagy Imre tér",wikidata,M,Q177917,way
 "Nagysándor József utca",wikidata,M,Q1215135,way
+"Ocskay László út",wikidata,M,Q1223133,way
+"Olof Palme sétány",wikidata,M,Q53713,way
+"Paulay Ede utca",wikidata,M,Q921675,way
 "Perczel Mór utca",wikidata,M,Q680723,way
+"Peterdy utca",wikidata,M,Q25459229,way
+"Petőfi híd",wikidata,M,Q81219,way
 "Podmaniczky Frigyes tér",wikidata,M,Q1237824,relation+way
+"Pollack Mihály tér",wikidata,M,Q690112,way
+"Puskás Tivadar utca",wikidata,M,Q282823,way
+"Puskin utca",wikidata,M,Q7200,way
+"Radnóti Miklós utca",wikidata,M,Q442801,way
+"Rákóczi út",wikidata,M,Q181333,relation+way
+"Raoul Wallenberg rakpart",wikidata,M,Q152850,way
+"Raoul Wallenberg utca",wikidata,M,Q152850,way
 "Rejtő Jenő utca",wikidata,M,Q128714,way
+"Rippl-Rónai utca",wikidata,M,Q569369,way
+"Róbert Károly körút",wikidata,M,Q213061,way
+"Rumbach Sebestyén utca",wikidata,M,Q31190391,way
+"Semmelweis utca",wikidata,M,Q59736,way
+"Stáhly utca",wikidata,M,Q1292094,way
 "Steindl Imre utca",wikidata,M,Q337876,way
 "Stollár Béla utca",wikidata,M,Q1291806,way
+"Szabó Dezső sétány",wikidata,M,Q920991,way
 "Szabó Ervin tér",wikidata,M,Q1293478,way
+"Szabó József utca",wikidata,M,Q1293629,way
 "Széchenyi István tér",wikidata,M,Q279397,way
 "Széchenyi rakpart",wikidata,M,Q279397,way
 "Széchenyi utca",wikidata,M,Q279397,way
 "Széher út",wikidata,M,Q63923736,way
+"Székely Bertalan utca",wikidata,M,Q251217,way
 "Széll Kálmán tér",wikidata,M,Q640475,relation+way
 "Szemere utca",wikidata,M,Q687135,way
+"Szent Gellért rakpart",wikidata,M,Q117759,way
 "Szent Gellért tér",wikidata,M,Q117759,relation+way
 "Szent György tér",wikidata,M,Q48438,relation+way
 "Szent István körút",wikidata,M,Q177903,way
 "Szent István tér",wikidata,M,Q177903,relation+way
 "Szerdahelyi utca",wikidata,M,Q12350991,way
+"Szinyei Merse utca",wikidata,M,Q742322,way
+"Sztehlo Gábor rakpart",wikidata,M,Q934762,way
+"Táncsics Mihály utca",wikidata,M,Q713534,way
+"Than Károly utca",wikidata,M,Q1318973,way
+"Toldy Ferenc utca",wikidata,M,Q79045,way
+"Toldy lépcső",wikidata,M,Q79045,way
+"Tóth Árpád sétány",wikidata,M,Q582421,way
+"Trefort utca",wikidata,M,Q559099,way
 "Tüköry utca",wikidata,M,Q943508,way
+"Türr István utca",wikidata,M,Q922555,way
+"Vázsonyi Vilmos sétány",wikidata,M,Q1462335,way
+"Victor Hugo utca",wikidata,M,Q535,way
 "Vigyázó Ferenc utca",wikidata,M,Q1426291,way
+"Washington György sétány",wikidata,M,Q23,way
+"Weiner Leó utca",wikidata,M,Q535323,way
+"Wekerle Sándor utca",wikidata,M,Q340174,way
+"Wesselényi utca",wikidata,M,Q687014,way
+"Winston Churchill sétány",wikidata,M,Q8016,way
+"Zelk Zoltán út",wikidata,M,Q51030,way
+"Zichy Géza utca",wikidata,M,Q907074,way
+"Zichy Jenő utca",wikidata,M,Q1467322,relation+way
+"Zichy Mihály út",wikidata,M,Q742959,way
