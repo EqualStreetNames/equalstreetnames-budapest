@@ -4,6 +4,7 @@ name,source,gender,wikidata,type
 "Alkotmány utca",wikidata,,Q280654,way
 "Almássy tér",wikidata,,Q1498478,way
 "Alpár utca",wikidata,,Q63456112,relation+way
+"Anker köz",wikidata,,Q12813589,way
 "Aranykéz utca",wikidata,,Q775071,way
 "Balaton utca",wikidata,,Q6383,way
 "Balatoni út",wikidata,,Q6383,way
@@ -316,7 +317,6 @@ Alakulótér,,,,way
 "Anjou bástya",,,,way
 "Anjou lépcső",,,,way
 "Ankara utca",,,,way
-"Anker köz",,,,way
 "Anna utca",,,,way
 "Anód utca",,,,way
 "Anonymus utca",,,,way
@@ -412,7 +412,6 @@ Alakulótér,,,,way
 "Árvalányhaj utca",,,,way
 "Árvavár utca",,,,way
 "Árvíz utca",,,,way
-"Asbóth utca",,,,way
 "Aschner Lipót tér",,,,way
 "Ásó utca",,,,way
 "Ásólúd utca",,,,way
@@ -981,7 +980,7 @@ Budagyöngye,,,,way
 "Cirmos utca",,,,way
 "Cirok utca",,,,way
 "Citadella sétány",,,,way
-"Citadella utca",,,,way
+"Citadella út",,,,way
 "Citera utca",,,,way
 "Citroën utca",,,,way
 "Citrom utca",,,,way
@@ -1281,6 +1280,7 @@ Csepel-sziget,,,,relation
 "Dayka Gábor utca",,,,way
 "Dayka Gábor utcai felüljáró",,,,way
 "Dayka tér",,,,way
+"Deák tér",,,,way
 "Deák utca",,,,way
 "Deáki utca",,,,way
 "Debercsény utca",,,,way
@@ -4510,7 +4510,6 @@ Népliget,,,,way
 "Óbarack utca",,,,way
 "Óbester utca",,,,way
 "Öböl dűlő",,,,way
-"Öböl utca",,,,way
 "Óbor köz",,,,way
 "Óbor utca",,,,way
 "Obsitos utca",,,,way
@@ -6524,6 +6523,7 @@ Széchenyi-sziget,,,,relation
 "Vak Bottyán utca",,,,way
 "Vakond utca",,,,way
 "Valdemar és Nina Langlet rakpart",,,,way
+"Valéria tér",,,,way
 "Valéria utca",,,,way
 "Váli utca",,,,way
 "Valkói utca",,,,way
@@ -6656,7 +6656,6 @@ Városmajor,,,,way
 "Vereckei utca",,,,way
 "Verejték utca",,,,way
 "Verem utca",,,,way
-"Veres Pálné utca",,,,way
 "Veres Péter út",,,,way
 "Veresegyházi utca",,,,way
 "Vereskő utca",,,,way
