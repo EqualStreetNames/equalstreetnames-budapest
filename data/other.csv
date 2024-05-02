@@ -36,6 +36,7 @@ Dunakorzó,wikidata,,Q1653,way
 "Mezőkövesd út",wikidata,,Q933638,way
 "Moszkva sétány",wikidata,,Q649,way
 "Murányi utca",wikidata,,Q609701,way
+"Múzeum utca",wikidata,,Q914141,way
 "Műegyetem rakpart",wikidata,,Q1186843,way
 "Nagytétényi út",wikidata,,Q1215163,way
 "Nagyvárad tér",wikidata,,Q93358,way
@@ -58,11 +59,16 @@ Oktogon,wikidata,,Q166080,way
 "Vígszínház utca",wikidata,,Q897802,way
 "Visegrádi utca",wikidata,,Q548097,way
 "1-es folyosó",,,,way
+"1. utca",,,,way
 "2-es terminál érkezés",,,,way
 "2-es terminál indulás",,,,way
+"2. utca",,,,way
 "2A Terminal Indulás",,,,way
 "2B Terminal Indulás",,,,way
 "3-as folyosó",,,,way
+"3. utca",,,,way
+"4. utca",,,,way
+"5. utca",,,,way
 "500. utca",,,,way
 "501. utca",,,,relation
 "502. sor",,,,relation
@@ -542,6 +548,7 @@ Alakulótér,,,,way
 "Bányató utca",,,,way
 "Barabás Mária utca",,,,way
 "Barabás utca",,,,way
+"Barack utca",,,,way
 "Barackfa utca",,,,way
 "Barackmag utca",,,,way
 "Barackos köz",,,,way
@@ -1595,6 +1602,7 @@ Csepel-sziget,,,,relation
 "Erdőkerülő utca",,,,way
 "Erdőkövesd utca",,,,way
 "Erdőkürt utca",,,,way
+"Erdőmenti út",,,,way
 "Erdős utca",,,,way
 "Erdősáv utca",,,,way
 "Erdősi utca",,,,way
@@ -2256,7 +2264,7 @@ Csepel-sziget,,,,relation
 "Gyolcsrét utca",,,,way
 "Gyoma utca",,,,way
 "Gyömbér utca",,,,way
-"Gyömrői út",,,,relation
+"Gyömrői út",,,,way
 "Gyöngyfa utca",,,,way
 "Gyöngyfüzér utca",,,,way
 "Gyöngyhalász utca",,,,way
@@ -2311,6 +2319,7 @@ Csepel-sziget,,,,relation
 "Hadik András utca",,,,way
 "Hadnagy utca",,,,way
 "Hadrianus utca",,,,way
+"Hagyma utca",,,,way
 "Hajadon utca",,,,way
 "Hajdú köz",,,,way
 "Hajdú utca",,,,way
@@ -2889,6 +2898,7 @@ K-híd,,,,way
 "Kajak dűlő",,,,way
 "Kajár utca",,,,way
 "Kajszi utca",,,,way
+"Káka köz",,,,way
 "Kakastó utca",,,,way
 "Kakukk lépcső",,,,way
 "Kakukk út",,,,way
@@ -3098,6 +3108,7 @@ Karaván,,,,way
 "Kékliliom utca",,,,way
 "Kéknyelű utca",,,,way
 "Kékperje utca",,,,way
+"Kékszilva utca",,,,way
 "Kéktó tér",,,,way
 "Kékvirág utca",,,,way
 "Kele utca",,,,way
@@ -3237,7 +3248,6 @@ Karaván,,,,way
 "Királyhágó út",,,,way
 "Királyhelmec utca",,,,way
 "Királyhida utca",,,,way
-"Királyi Pál utca",,,,way
 "Királyka utca",,,,way
 "Királylaki köz",,,,way
 "Királylaki lejtő",,,,way
@@ -3518,6 +3528,7 @@ Karaván,,,,way
 "Közgazdász utca",,,,way
 "Kozma utca",,,,way
 "Közműhelytelep utca",,,,way
+"Közöslegelő dűlő",,,,way
 "Központi út",,,,way
 "Közraktár utca",,,,way
 "Községház utca",,,,way
@@ -3547,6 +3558,7 @@ Karaván,,,,way
 "Kubinyi Imre utca",,,,way
 "Kucorgó utca",,,,way
 "Kucsma utca",,,,way
+"Kukorica utca",,,,way
 "Kukoricás utca",,,,way
 "Küküllő utca",,,,way
 "Kulacs utca",,,,way
@@ -4276,7 +4288,6 @@ Molnár-sziget,,,,relation
 "Must utca",,,,way
 "Mustár utca",,,,way
 "Múzeum körút",,,,way
-"Múzeum utca",,,,way
 "Muzsika utca",,,,way
 "Muzsikus cigányok parkja",,,,way
 "Muzsla utca",,,,way
@@ -4287,6 +4298,7 @@ Molnár-sziget,,,,relation
 "Művész út",,,,way
 "Művezető utca",,,,way
 "Nád utca",,,,way
+"Nadály utca",,,,way
 "Nádas utca",,,,way
 "Nádasdy Ferenc utca",,,,way
 "Nádasdy Kálmán utca",,,,way
@@ -4490,7 +4502,6 @@ Népliget,,,,way
 "Nyomda utca",,,,way
 "Nyomdász utca",,,,way
 "Nyomdok utca",,,,way
-"Nyugalom utca",,,,way
 "Nyugati Átjáró Üzletközpont",,,,way
 "Nyugati aluljáró",,,,relation+way
 "Nyugati pályaudvar",,,,relation
@@ -4776,6 +4787,7 @@ Népliget,,,,way
 "Páskomliget utca",,,,way
 "Passuth László utca",,,,way
 "Paszomány utca",,,,way
+"Paszternák utca",,,,way
 "Pásztó utca",,,,way
 "Pásztor lépcső",,,,way
 "Pásztordomb tér",,,,way
@@ -5771,7 +5783,6 @@ Széchenyi-sziget,,,,relation
 "Szentháromság tér",,,,way
 "Szentháromság utca",,,,way
 "Szentimrey utca",,,,way
-"Szentkirályi utca",,,,way
 "Szentlélek tér",,,,relation+way
 "Szentlőrinci út",,,,way
 "Szentmihályi út",,,,way
@@ -6340,6 +6351,7 @@ Széchenyi-sziget,,,,relation
 "Túri István út",,,,way
 "Turista út",,,,way
 "Turján köz",,,,way
+"Turjános körút",,,,way
 "Túrkeve utca",,,,way
 "Türkiz utca",,,,way
 "Turóc utca",,,,way
@@ -6466,7 +6478,6 @@ Széchenyi-sziget,,,,relation
 "Vácegres utca",,,,way
 "Váchartyán utca",,,,way
 "Váci Mihály tér",,,,way
-"Váci út",,,,way
 "Váci utca",,,,way
 "Vackor utca",,,,way
 "Vácrátót tér",,,,way

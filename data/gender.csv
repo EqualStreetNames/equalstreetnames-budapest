@@ -99,6 +99,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Károli Gáspár tér",wikidata,M,Q304346,way
 "Katona József utca",wikidata,M,Q149415,way
 "Kazinczy utca",wikidata,M,Q381865,way
+"Királyi Pál utca",wikidata,M,Q1545116,way
 "Kiss Ernő utca",wikidata,M,Q699111,way
 "Kodály körönd",wikidata,M,Q153008,way
 "Kós Károly sétány",wikidata,M,Q854411,way
@@ -159,10 +160,11 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Széll Kálmán tér",wikidata,M,Q640475,relation+way
 "Szemere utca",wikidata,M,Q687135,way
 "Szent Gellért rakpart",wikidata,M,Q117759,way
-"Szent Gellért tér",wikidata,M,Q117759,relation+way
+"Szent Gellért tér",wikidata,M,Q117759,way
 "Szent György tér",wikidata,M,Q48438,relation+way
 "Szent István körút",wikidata,M,Q177903,way
 "Szent István tér",wikidata,M,Q177903,relation+way
+"Szentkirályi utca",wikidata,M,Q1297041,way
 "Szerdahelyi utca",wikidata,M,Q12350991,way
 "Szinyei Merse utca",wikidata,M,Q742322,way
 "Sztehlo Gábor rakpart",wikidata,M,Q934762,way
@@ -174,6 +176,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Trefort utca",wikidata,M,Q559099,way
 "Tüköry utca",wikidata,M,Q943508,way
 "Türr István utca",wikidata,M,Q922555,way
+"Váci út",wikidata,M,Q213061,way
 "Vázsonyi Vilmos sétány",wikidata,M,Q1462335,way
 "Victor Hugo utca",wikidata,M,Q535,way
 "Vigyázó Ferenc utca",wikidata,M,Q1426291,way
