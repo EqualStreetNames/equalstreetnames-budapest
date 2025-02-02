@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"56-osok tere",wikidata,,Q3242115;Q164348,relation+way
 "Akadémia utca",wikidata,,Q265058,way
 "Alkotás utca",wikidata,,Q163138,way
 "Alkotmány utca",wikidata,,Q280654,way
@@ -56,13 +57,17 @@ Oktogon,wikidata,,Q166080,way
 "Poprádi út",wikidata,,Q26393,way
 "Pozsonyi út",wikidata,,Q1780,way
 "Sajó utca",wikidata,,Q576032,way
+"Sas utca",wikidata,,Q2092297,way
+"Síp utca",wikidata,,Q2083491,way
 "Somló lépcső",wikidata,,Q743913,way
 "Somlói út",wikidata,,Q743913,way
 "Szabadság tér",wikidata,,Q2979,way
 "Széna tér",wikidata,,Q336989,relation+way
 "Szervita tér",wikidata,,Q792572,way
+"Szigetvári utca",wikidata,,Q373542,way
 "Szinva utca",wikidata,,Q925628,way
 "Szófia utca",wikidata,,Q472,way
+"Szűz utca",wikidata,,Q261086,way
 "Tárogató út",wikidata,,Q736874,way
 "Tátra utca",wikidata,,Q194263,way
 "Törökvész út",wikidata,,Q1328602,way
@@ -70,6 +75,7 @@ Oktogon,wikidata,,Q166080,way
 "Vértanúk tere",wikidata,,Q6498826,way
 "Vígszínház utca",wikidata,,Q897802,way
 "Visegrádi utca",wikidata,,Q548097,way
+"Őr utca",wikidata,,Q680928,way
 "1-es folyosó",,,,way
 "1. utca",,,,way
 "2-es terminál érkezés",,,,way
@@ -127,7 +133,6 @@ Oktogon,wikidata,,Q166080,way
 "543. utca",,,,way
 "544. utca",,,,way
 "545. utca",,,,way
-"56-osok tere",,,,relation+way
 "563. utca",,,,way
 "567. utca",,,,way
 "575. utca",,,,way
@@ -235,6 +240,7 @@ Alakulótér,,,,way
 "Albert Flórián út",,,,way
 "Albert Gyula utca",,,,way
 "Albert utca",,,,way
+"Albertfalva kitérő",,,,way
 "Albertfalva utca",,,,way
 "Albertfalva vasútállomás",,,,relation
 "Albertirsai köz",,,,way
@@ -434,6 +440,7 @@ Alakulótér,,,,way
 "Aschner Lipót tér",,,,way
 "Ásó utca",,,,way
 "Ásólúd utca",,,,way
+"Astoria M",,,,way
 "Astoria aluljáró",,,,way
 "Ásvány utca",,,,way
 "Aszály utca",,,,way
@@ -577,7 +584,6 @@ Alakulótér,,,,way
 "Barátság utca",,,,way
 "Barázda köz",,,,way
 "Barázda utca",,,,way
-"Barca köz",,,,way
 "Barcika tér",,,,way
 "Barcs tér",,,,way
 "Bárczi Géza utca",,,,way
@@ -2055,7 +2061,6 @@ Csepel-sziget,,,,relation
 "Garat utca",,,,way
 "Garay László utca",,,,way
 "Garay köz",,,,way
-"Garay tér",,,,way
 "Garay utca",,,,way
 "Garázs utca",,,,way
 "Garázssor utca",,,,way
@@ -2388,7 +2393,7 @@ Csepel-sziget,,,,relation
 "Hang utca",,,,way
 "Hanga köz",,,,way
 "Hanga utca",,,,way
-"Hangár utca",,,,relation+way
+"Hangár utca",,,,relation
 "Hangos utca",,,,way
 "Hangulat utca",,,,way
 "Hangya lépcső",,,,way
@@ -3143,7 +3148,6 @@ Karaván,,,,way
 "Kelep utca",,,,way
 "Kelet utca",,,,way
 "Keleti Károly utca",,,,way
-"Keleti pályaudvar M",,,,way
 "Keleti út",,,,way
 "Kelevéz utca",,,,way
 "Kelme utca",,,,way
@@ -3927,7 +3931,6 @@ M1,,,,way
 M2,,,,way
 M3,,,,way
 "MÁV telep",,,,way
-"MOM park",,,,relation
 "Maci köz",,,,way
 "Mackó utca",,,,way
 "Macskajáték utca",,,,way
@@ -3966,6 +3969,7 @@ M3,,,,way
 "Maglódi út",,,,way
 "Máglya köz",,,,way
 "Mágnes utca",,,,way
+"Magnólia utca",,,,way
 "Magor utca",,,,way
 "Magtár utca",,,,way
 "Magvető utca",,,,way
@@ -4196,6 +4200,7 @@ Margitsziget,,,,way
 "Méter utca",,,,way
 "Metró utca",,,,way
 "Mexikói út",,,,way
+"Mexikói út M",,,,way
 "Méz utca",,,,way
 "Mézes utca",,,,way
 "Mézesfehér utca",,,,way
@@ -4274,7 +4279,6 @@ Molnár-sziget,,,,relation
 "Móra Ferenc utca",,,,way
 "Móri utca",,,,way
 "Móricz Zsigmond körtér",,,,way
-"Móricz Zsigmond körtér M",,,,way
 "Móricz Zsigmond körtér, aluljáró",,,,relation
 "Móricz Zsigmond út",,,,way
 "Móricz Zsigmond utca",,,,way
@@ -4340,6 +4344,7 @@ Molnár-sziget,,,,relation
 "Nagy Győry István utca",,,,way
 "Nagy Jenő utca",,,,way
 "Nagy Lajos király útja",,,,way
+"Nagy Lajos király útja / Czobor utca",,,,way
 "Nagy Lajos körút",,,,way
 "Nagy Templom utca",,,,way
 "Nagy-Hangács köz",,,,way
@@ -4662,7 +4667,6 @@ Népliget,,,,way
 "Oroszvég utca",,,,way
 "Örs utca",,,,way
 "Örs vezér tere",,,,way
-"Örs vezér tere M+H",,,,way
 "Örs vezér útja",,,,way
 "Orsika tér",,,,way
 "Orsó utca",,,,way
@@ -5133,7 +5137,6 @@ Promenád,,,,way
 "Ránki utca",,,,way
 "Ráskay Lea utca",,,,way
 "Ráspoly utca",,,,way
-"Ráth György utca",,,,way
 "Ratkóc köz",,,,way
 "Ratkóc utca",,,,way
 "Rátót utca",,,,way
@@ -5377,7 +5380,6 @@ Promenád,,,,way
 "Sárrét utca",,,,way
 "Saru utca",,,,way
 "Sas köz",,,,way
-"Sas utca",,,,way
 "Sás utca",,,,way
 "Sasadi köz",,,,way
 "Sasadi út",,,,way
@@ -5462,7 +5464,6 @@ Promenád,,,,way
 "Sínpár utca",,,,way
 "Sió utca",,,,way
 "Sion lépcső",,,,way
-"Síp utca",,,,way
 "Sipka utca",,,,way
 "Sipos Pál utca",,,,way
 "Sipos tér",,,,way
@@ -5629,7 +5630,6 @@ Stöckl-lépcső,,,,way
 "Szalánci utca",,,,way
 "Szalárdi Mór utca",,,,way
 "Szalaska dűlő",,,,way
-"Szalay utca",,,,way
 "Szálfa utca",,,,way
 "Szállás köz",,,,way
 "Szállás utca",,,,way
@@ -5858,7 +5858,6 @@ Széchenyi-sziget,,,,relation
 "Szigetújfalu utca",,,,way
 "Szigetvár utca",,,,way
 "Szigetvári köz",,,,way
-"Szigetvári utca",,,,way
 "Szigligeti utca",,,,way
 "Szigony utca",,,,way
 "Szihalom utca",,,,way
@@ -5989,7 +5988,6 @@ Szuperkör,,,,way
 "Szűcs utca",,,,way
 "Szűr utca",,,,way
 "Szűz Mária 7 fájdalmas stációja",,,,way
-"Szűz utca",,,,way
 "T2 - 1. móló",,,,way
 "T2 0-érkezési szint",,,,way
 "T2 1-indulási szint",,,,way
@@ -6552,7 +6550,6 @@ Szuperkör,,,,way
 "Vajdahunyad sétány",,,,way
 "Vajk fejedelem utca",,,,way
 "Vajk utca",,,,way
-"Vajkay utca",,,,way
 "Vak Bottyán utca",,,,way
 "Vakond utca",,,,way
 "Valdemar és Nina Langlet rakpart",,,,way
@@ -6838,7 +6835,6 @@ Virágpiac,,,,way
 "Vörösmajor utca",,,,way
 "Vörösmarty Mihály utca",,,,way
 "Vörösmarty tér",,,,relation+way
-"Vörösmarty utca",,,,way
 "Vöröstorony lejtő",,,,way
 "Vöröstorony lépcső",,,,way
 "Vöröstorony utca",,,,way
@@ -7044,7 +7040,6 @@ Zsófia-ösvény,,,,way
 "Zúzmara utca",,,,way
 "Zuzmó utca",,,,way
 "gróf Esterházy János rakpart",,,,way
-"Őr utca",,,,way
 "Őrgébics utca",,,,way
 "Őrhalom utca",,,,way
 "Őrhely utca",,,,way

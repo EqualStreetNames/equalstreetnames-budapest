@@ -69,6 +69,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Fejér Lipót utca",wikidata,M,Q963663,way
 "Frankel Leó út",wikidata,M,Q700018,way
 "Friedrich Born rakpart",wikidata,M,Q117195,way
+"Garay tér",wikidata,M,Q4373254,way
 "Garibaldi utca",wikidata,M,Q539,way
 "Gogol utca",wikidata,M,Q43718,way
 "Goldmann György tér",wikidata,M,Q16520063,way
@@ -140,6 +141,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Perczel Mór utca",wikidata,M,Q680723,way
 "Peterdy utca",wikidata,M,Q25459229,way
 "Petőfi híd",wikidata,M,Q81219,way
+"Petőfi híd, budai hídfő",wikidata,M,Q81219,way
 "Podmaniczky Frigyes tér",wikidata,M,Q1237824,relation+way
 "Pollack Mihály tér",wikidata,M,Q690112,way
 "Puskás Tivadar utca",wikidata,M,Q282823,way
@@ -148,6 +150,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Rákóczi út",wikidata,M,Q181333,relation+way
 "Raoul Wallenberg rakpart",wikidata,M,Q152850,way
 "Raoul Wallenberg utca",wikidata,M,Q152850,way
+"Ráth György utca",wikidata,M,Q1252634,way
 "Rátz László utca",wikidata,M,Q526211,way
 "Rejtő Jenő utca",wikidata,M,Q128714,way
 "Rippl-Rónai utca",wikidata,M,Q569369,way
@@ -161,6 +164,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Szabó Dezső sétány",wikidata,M,Q920991,way
 "Szabó Ervin tér",wikidata,M,Q1293478,way
 "Szabó József utca",wikidata,M,Q1293629,way
+"Szalay utca",wikidata,M,Q1294312,way
 "Széchenyi István tér",wikidata,M,Q279397,way
 "Széchenyi rakpart",wikidata,M,Q279397,way
 "Széchenyi utca",wikidata,M,Q279397,way
@@ -188,9 +192,11 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Tüköry utca",wikidata,M,Q943508,way
 "Türr István utca",wikidata,M,Q922555,way
 "Váci út",wikidata,M,Q213061,way
+"Vajkay utca",wikidata,M,Q1401054,way
 "Vázsonyi Vilmos sétány",wikidata,M,Q1462335,way
 "Victor Hugo utca",wikidata,M,Q535,way
 "Vigyázó Ferenc utca",wikidata,M,Q1426291,way
+"Vörösmarty utca",wikidata,M,Q332484,way
 "Washington György sétány",wikidata,M,Q23,way
 "Weiner Leó utca",wikidata,M,Q535323,way
 "Wekerle Sándor utca",wikidata,M,Q340174,way
