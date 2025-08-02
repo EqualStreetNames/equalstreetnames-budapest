@@ -28,7 +28,6 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Bajcsy-Zsilinszky köz",wikidata,M,Q180734,relation
 "Bajcsy-Zsilinszky út",wikidata,M,Q180734,relation+way
 "Bajza utca",wikidata,M,Q541054,relation+way
-"Bakáts tér",wikidata,M,Q648686,way
 "Balassa utca",wikidata,M,Q379599,way
 "Balassi Bálint utca",wikidata,M,Q379599,way
 "Ballagi Mór utca",wikidata,M,Q748113,way
@@ -146,7 +145,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Lendvay utca",wikidata,M,Q1128951;Q1128954,relation
 "Lev Tolsztoj sétány",wikidata,M,Q7243,way
 "Liszt Ferenc tér",wikidata,M,Q41309,relation+way
-"Lónyay utca",wikidata,M,Q701575,way
+"Lónyay utca",wikidata,M,Q701575,relation
 "Lovassy László utca",wikidata,M,Q598317,way
 "Lőrinc pap tér",wikidata,M,Q25466353,way
 "Madách Imre tér",wikidata,M,Q366331,way
@@ -180,6 +179,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Pollack Mihály tér",wikidata,M,Q690112,way
 "Puskás Tivadar utca",wikidata,M,Q282823,way
 "Puskin utca",wikidata,M,Q7200,relation
+"Ráday utca",wikidata,M,Q1252251,relation
 "Radnóti Miklós utca",wikidata,M,Q442801,way
 "Rákóczi tér",wikidata,M,Q181333,relation+way
 "Rákóczi út",wikidata,M,Q181333,relation+way
