@@ -1,25 +1,39 @@
 name,source,gender,wikidata,type
 "Dorottya utca",wikidata,F,Q61103,relation
+"Erzsébet híd",wikidata,F,Q150782,relation
 "Erzsébet körút",wikidata,F,Q150782,relation+way
 "Izabella utca",wikidata,F,Q235591,relation
+"Jane Haining rakpart",wikidata,F,Q595695,way
 "Jászai Mari tér",wikidata,F,Q220488,way
+"Krisztina körút",wikidata,F,Q167439,way
 "Margit híd",wikidata,F,Q232031,relation+way
+"Margit körút",wikidata,F,Q232031,way
 Margit-sziget,wikidata,F,Q232031,relation
+"Mária tér",wikidata,F,Q345,way
 "Márkus Emília utca",wikidata,F,Q286674,way
+"Monspart Sarolta Futókör",wikidata,F,Q443188,way
+"Nemes Nagy Ágnes korzó",wikidata,F,Q721607,way
 "Psota Irén utca",wikidata,F,Q1241161,way
+"Salkaházi Sára rakpart",wikidata,F,Q51772,way
+"Slachta Margit rakpart",wikidata,F,Q526932,way
+"Szabó Ilonka utca",wikidata,F,Q1293560,way
 "Szent Teréz utca",wikidata,F,Q174880,relation
 "Szilágyi Erzsébet fasor",wikidata,F,Q534860,relation
 "Teréz körút",wikidata,F,Q131706,relation
+"Varsányi Irén utca",wikidata,F,Q1401992,way
+"Varsányi udvar",wikidata,F,Q1401992,way
 "Veres Pálné utca",wikidata,F,Q1421022,way
 "Abonyi utca",wikidata,M,Q323626,way
 "Ady Endre út",wikidata,M,Q211392,way
 "Ajtósi Dürer sor",wikidata,M,Q5580,way
 "Andrássy út",wikidata,M,Q313557,relation+way
+"Ángel Sanz Briz út",wikidata,M,Q251912,way
 "Angelo Rotta rakpart",wikidata,M,Q536546,way
 "Apáczai Csere János utca",wikidata,M,Q774310,relation
 "Apáthy István utca",wikidata,M,Q774381,way
 "Arany János utca",wikidata,M,Q316556,relation+way
 "Árpád fejedelem útja",wikidata,M,Q210207,way
+"Árpád híd",wikidata,M,Q210207,relation+way
 "Árpád út",wikidata,M,Q210207,way
 "Asbóth utca",wikidata,M,Q362539,relation
 "Asztana út",wikidata,M,Q967828,way
@@ -28,6 +42,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Bajcsy-Zsilinszky köz",wikidata,M,Q180734,relation
 "Bajcsy-Zsilinszky út",wikidata,M,Q180734,relation+way
 "Bajza utca",wikidata,M,Q541054,relation+way
+"Bakfark Bálint utca",wikidata,M,Q788956,way
 "Balassa utca",wikidata,M,Q379599,way
 "Balassi Bálint utca",wikidata,M,Q379599,way
 "Ballagi Mór utca",wikidata,M,Q748113,way
@@ -78,6 +93,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Eötvös utca",wikidata,M,Q469996,relation+way
 "Falk Miksa utca",wikidata,M,Q897249,relation+way
 "Fejér Lipót utca",wikidata,M,Q963663,way
+"Flórián tér",wikidata,M,Q298845,way
 "Frankel Leó út",wikidata,M,Q700018,way
 "Friedrich Born rakpart",wikidata,M,Q117195,way
 "Garay tér",wikidata,M,Q4373254,relation
@@ -91,6 +107,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Gyulai Pál utca",wikidata,M,Q898398,relation+way
 "Haller utca",wikidata,M,Q1032997,way
 "Hegedűs Gyula utca",wikidata,M,Q966274,way
+"Henryk Sławik rakpart",wikidata,M,Q468580,way
 "Hild tér",wikidata,M,Q1036379,way
 "Himfy utca",wikidata,M,Q670247,way
 "Hock János utca",wikidata,M,Q656266,way
@@ -140,6 +157,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Krúdy Gyula utca",wikidata,M,Q527239,relation+way
 "Kubinyi Ágoston sétány",wikidata,M,Q1121610,way
 "Kuny Domokos utca",wikidata,M,Q1122049,way
+"Kvassay híd",wikidata,M,Q1122579,relation
 "Lajos utca",wikidata,M,Q53998,way
 "Lehel utca",wikidata,M,Q1044288,relation+way
 "Lendvay utca",wikidata,M,Q1128951;Q1128954,relation
@@ -157,6 +175,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Mikes Kelemen utca",wikidata,M,Q540184,way
 "Mikszáth Kálmán tér",wikidata,M,Q350552,relation+way
 "Molnár C. Pál lejtő",wikidata,M,Q509411,way
+"Móra Ferenc utca",wikidata,M,Q774280,way
 "Móricz Zsigmond körtér",wikidata,M,Q227312,relation+way
 "Munkácsy Mihály utca",wikidata,M,Q551652,relation+way
 "Nádor utca",wikidata,M,Q319764,relation+way
@@ -195,8 +214,10 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Rökk Szilárd utca",wikidata,M,Q1253739,relation
 "Rottenbiller utca",wikidata,M,Q1251209,relation+way
 "Rumbach Sebestyén utca",wikidata,M,Q31190391,relation
+"Schulek Frigyes sétány",wikidata,M,Q460169,way
 "Semmelweis utca",wikidata,M,Q59736,way
 "Somogyi Béla utca",wikidata,M,Q1290074,relation
+"Soó Rezső sétány",wikidata,M,Q281645,way
 "Stáhly utca",wikidata,M,Q1292094,relation
 "Steindl Imre utca",wikidata,M,Q337876,relation
 "Stollár Béla utca",wikidata,M,Q1291806,relation
@@ -206,6 +227,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Szabó József utca",wikidata,M,Q1293629,way
 "Szalay utca",wikidata,M,Q1294312,relation+way
 "Széchenyi István tér",wikidata,M,Q279397,way
+"Széchenyi lánchíd",wikidata,M,Q279397,relation
 "Széchenyi rakpart",wikidata,M,Q279397,way
 "Széchenyi tér",wikidata,M,Q279397,way
 "Széchenyi utca",wikidata,M,Q279397,way
@@ -226,6 +248,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Szondi utca",wikidata,M,Q768748,relation+way
 "Sztehlo Gábor rakpart",wikidata,M,Q934762,way
 "Táncsics Mihály utca",wikidata,M,Q713534,way
+"Tarasz Sevcsenko tér",wikidata,M,Q134958,way
 "Telepy utca",wikidata,M,Q1317761,way
 "Than Károly utca",wikidata,M,Q1318973,way
 "Toldy Ferenc utca",wikidata,M,Q79045,way
@@ -252,3 +275,5 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Zichy Géza utca",wikidata,M,Q907074,way
 "Zichy Jenő utca",wikidata,M,Q1467322,relation
 "Zichy Mihály út",wikidata,M,Q742959,way
+"Zielinski Szilárd sétány",wikidata,M,Q1467357,way
+"gróf Esterházy János rakpart",wikidata,M,Q694669,way
