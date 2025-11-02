@@ -78,7 +78,7 @@ Dunakorzó,wikidata,-,Q1653,way
 "Légszesz utca",wikidata,-,Q56526528,way
 "Limanova tér",wikidata,-,Q701677,way
 "Ljubljana tér",wikidata,-,Q437,way
-"Losonci tér",wikidata,-,Q728965,way
+"Losonci tér",wikidata,-,Q728965;Q1102875,way
 "Március 15. tér",wikidata,-,Q2403,relation+way
 "Máriaremetei út",wikidata,-,Q1212289,relation
 "Ménesi út",wikidata,-,Q339832,relation
@@ -130,6 +130,8 @@ Oktogon,wikidata,-,Q166080,relation+way
 "Szűz utca",wikidata,-,Q261086,way
 "Tárogató út",wikidata,-,Q736874,way
 "Tátra utca",wikidata,-,Q194263,way
+"Távíró köz",wikidata,-,Q6987428,relation
+"Távíró utca",wikidata,-,Q6987428,relation
 "Terebesi utca",wikidata,-,Q256301,relation
 "Törökvész út",wikidata,-,Q1328602,relation
 "Üllői út",wikidata,-,Q933467,relation+way
@@ -180,13 +182,14 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Szent Teréz utca",wikidata,F,Q174880,relation
 "Szilágyi Erzsébet fasor",wikidata,F,Q534860,relation
 "Teréz körút",wikidata,F,Q131706,relation
+"Valéria tér",wikidata,F,Q234002,relation
 "Varsányi Irén utca",wikidata,F,Q1401992,way
 "Varsányi udvar",wikidata,F,Q1401992,way
 "Veres Pálné utca",wikidata,F,Q1421022,way
 "Abonyi utca",wikidata,M,Q323626,way
 "Ady Endre út",wikidata,M,Q211392,way
 "Ajtósi Dürer sor",wikidata,M,Q5580,way
-"Andrássy út",wikidata,M,Q313557,relation+way
+"Andrássy út",wikidata,M,Q313557,relation
 "Ángel Sanz Briz út",wikidata,M,Q251912,way
 "Angelo Rotta rakpart",wikidata,M,Q536546,way
 "Apáczai Csere János utca",wikidata,M,Q774310,relation
@@ -248,6 +251,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Deák Ferenc utca",wikidata,M,Q508823,relation+way
 "Dembinszky utca",wikidata,M,Q970945,relation+way
 "Déri Miksa utca",wikidata,M,Q897069,way
+"Dési Huber utca",wikidata,M,Q986971,relation
 "Dessewffy utca",wikidata,M,Q904386,relation+way
 "Ditrói Mór utca",wikidata,M,Q12352998,way
 "Dobó utca",wikidata,M,Q513502,relation+way
@@ -350,7 +354,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Lendvay utca",wikidata,M,Q1128951;Q1128954,relation
 "Leonardo da Vinci utca",wikidata,M,Q762,relation
 "Lev Tolsztoj sétány",wikidata,M,Q7243,way
-"Liszt Ferenc tér",wikidata,M,Q41309,relation+way
+"Liszt Ferenc tér",wikidata,M,Q41309,relation
 "Lónyay utca",wikidata,M,Q701575,relation
 "Lovassy László utca",wikidata,M,Q598317,way
 "Luther utca",wikidata,M,Q9554,relation
