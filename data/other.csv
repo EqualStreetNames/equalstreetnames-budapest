@@ -1,6 +1,5 @@
 name,source,gender,wikidata,type
 "1. utca",,,,way
-"10-es folyosó",,,,way
 "2-es terminál érkezés",,,,way
 "2-es terminál indulás",,,,way
 "2. utca",,,,way
@@ -8,7 +7,6 @@ name,source,gender,wikidata,type
 "2A Terminal Indulás",,,,way
 "2B Terminal Indulás",,,,way
 "3. utca",,,,way
-"30-as folyosó",,,,way
 "4. utca",,,,way
 "5. utca",,,,way
 "500. utca",,,,way
@@ -60,13 +58,9 @@ name,source,gender,wikidata,type
 "563. utca",,,,way
 "567. utca",,,,way
 "575. utca",,,,way
-"70-es folyosó",,,,way
-"80-as folyosó",,,,way
-"90-es folyosó",,,,way
 "A magyarság útja",,,,way
 "A szentháromság útja",,,,way
 "A udvar",,,,way
-"Aba utca",,,,way
 "Abádi tér",,,,way
 "Abádi utca",,,,way
 "Abaliget utca",,,,way
@@ -362,7 +356,6 @@ Alakulótér,,,,way
 "Átlós utca",,,,way
 "Attila köz",,,,way
 "Attila út",,,,relation
-"Attila utca",,,,way
 "Aulich Lajos utca",,,,way
 "Aurél utca",,,,way
 "Auróra utca",,,,way
@@ -486,7 +479,6 @@ Alakulótér,,,,way
 "Barnabás utca",,,,way
 "Báróczy utca",,,,way
 "Baross Gábor utca",,,,way
-"Baross téri aluljáró",,,,relation
 "Baross téri felüljáró",,,,way
 "Barót köz",,,,way
 "Barsi utca",,,,way
@@ -554,7 +546,6 @@ Alakulótér,,,,way
 "Belső köz",,,,way
 "Bem apó utca",,,,way
 "Bem tábornok utca",,,,way
-"Bem utca",,,,way
 "Bence utca",,,,way
 "Bencés utca",,,,way
 "Benedek Elek utca",,,,way
@@ -746,7 +737,6 @@ Alakulótér,,,,way
 "Bosnyák köz",,,,way
 "Böszörményi út",,,,way
 "Botfalu köz",,,,way
-"Botond utca",,,,way
 "Botond vezér utca",,,,way
 "Bottyán utca",,,,way
 "Bozókvár utca",,,,way
@@ -824,7 +814,6 @@ Budagyöngye,,,,way
 "Centenárium sétány",,,,way
 "Central Passage",,,,way
 "Chinoin utca",,,,way
-"Churchill sétány",,,,way
 "Cibakháza utca",,,,way
 "Cica utca",,,,way
 "Cickafark utca",,,,way
@@ -855,7 +844,6 @@ Budagyöngye,,,,way
 "Citromfű utca",,,,way
 "Citronella utca",,,,way
 "Compó utca",,,,way
-"Corvin körút",,,,way
 "Corvin köz",,,,way
 "Corvin lakópark",,,,way
 "Corvin sétány",,,,relation+way
@@ -1101,7 +1089,6 @@ Csepel-sziget,,,,relation
 "Cziráki utca",,,,way
 "Czobor utca",,,,way
 "Czuczor Gergely utca",,,,way
-"Czuczor utca",,,,way
 "D udvar",,,,way
 "Dabas utca",,,,way
 "Dagály utca",,,,way
@@ -1139,7 +1126,6 @@ Csepel-sziget,,,,relation
 "Datolya utca",,,,way
 "Dávid Ferenc utca",,,,way
 "Dayka Gábor utcai felüljáró",,,,way
-"Deák Ferenc tér M",,,,way
 "Deák utca",,,,way
 "Deáki utca",,,,way
 "Debercsény utca",,,,way
@@ -1312,7 +1298,6 @@ Csepel-sziget,,,,relation
 "Dunapataj utca",,,,way
 "Dunaszeg utca",,,,way
 "Dunavirág utca",,,,way
-"Dunyov István utca",,,,way
 "Duránci utca",,,,way
 "Dutka Ákos utca",,,,way
 "Dzsungel park",,,,way
@@ -1567,8 +1552,8 @@ Csepel-sziget,,,,relation
 "Fázis utca",,,,way
 "Fecske utca",,,,way
 "Fedák Sári utca",,,,way
+"Fedélköz utca",,,,way
 "Fedezék utca",,,,way
-"Fegyi útja",,,,way
 "Fegyvernek utca",,,,way
 "Fehér Hajó utca",,,,relation
 "Fehér Holló utca",,,,way
@@ -1629,7 +1614,6 @@ Csepel-sziget,,,,relation
 "Fennsík utca",,,,way
 "Fény utca",,,,way
 "Fénycső utca",,,,way
-"Fényes Elek utca",,,,way
 "Fenyves köz",,,,way
 "Fenyves lejtő",,,,way
 "Fenyves lépcső",,,,way
@@ -1817,7 +1801,6 @@ Csepel-sziget,,,,relation
 "Gábor Áron utca",,,,way
 "Gábor Dénes utca",,,,way
 "Gábor Ignác park",,,,way
-"Gábor László utca",,,,relation
 "Gábor utca",,,,way
 "Gács utca",,,,way
 "Gádor utca",,,,way
@@ -1912,10 +1895,8 @@ Csepel-sziget,,,,relation
 "Gesztenyés utca",,,,way
 "Géza fejedelem tér",,,,way
 "Géza fejedelem útja",,,,way
-"Géza utca",,,,way
 "Gézavár utca",,,,way
 "Gida utca",,,,way
-"Gidófalvy Lajos utca",,,,way
 "Gilice tér",,,,way
 "Gilvánfa utca",,,,way
 "Gím utca",,,,way
@@ -2125,7 +2106,6 @@ Csepel-sziget,,,,relation
 "Hajnal utca",,,,way
 "Hajnalcsillag utca",,,,way
 "Hajnalka utca",,,,way
-"Hajnóczy József utca",,,,way
 "Hajó utca",,,,way
 "Hajóállomás utca",,,,way
 "Hajóépítő sétány",,,,way
@@ -2390,7 +2370,6 @@ Csepel-sziget,,,,relation
 "Hullám utca",,,,way
 "Hun utca",,,,way
 "Hungária köz",,,,way
-"Hungária út",,,,way
 "Hunor utca",,,,way
 "Hunyad köz",,,,way
 "Hunyad lejtő",,,,way
@@ -2400,8 +2379,6 @@ Csepel-sziget,,,,relation
 "Hunyadi László utca",,,,way
 "Hunyadi Mátyás út",,,,way
 "Hunyadi tér",,,,relation+way
-"Hunyadi utca",,,,way
-Hunyadi-udvar,,,,relation+way
 "Hunyadvár utca",,,,way
 "Hunyor utca",,,,way
 "Húr utca",,,,way
@@ -2544,7 +2521,6 @@ Hűvösvölgy,,,,way
 "Jamriska Sámuel sétány",,,,way
 "Janda Vilmos köz",,,,way
 "Janda Vilmos utca",,,,way
-"Janicsár utca",,,,way
 "Janka út",,,,way
 "János Zsigmond utca",,,,way
 "János apostol utca",,,,way
@@ -2626,7 +2602,6 @@ János-hegyi-átjáró,,,,way
 "Június utca",,,,way
 "Jupiter utca",,,,way
 "Juranics utca",,,,way
-"Jurányi utca",,,,way
 "Jurisich Miklós utca",,,,way
 "Juta utca",,,,way
 "Jutas köz",,,,way
@@ -2713,7 +2688,6 @@ Kálvária,,,,way
 "Kapás utca",,,,way
 "Kapaszkodó utca",,,,way
 "Kapisztrán János utca",,,,way
-"Kapisztrán tér",,,,relation+way
 "Kapisztrán utca",,,,way
 "Kapitány utca",,,,way
 "Kapitánypuszta út",,,,way
@@ -2737,7 +2711,6 @@ Kálvária,,,,way
 "Kaptató sétány",,,,way
 "Kaptató utca",,,,way
 "Kapu utca",,,,way
-"Kapucinus utca",,,,way
 "Kapuvár utca",,,,way
 "Kapy utca",,,,way
 "Kara utca",,,,way
@@ -2750,7 +2723,6 @@ Kálvária,,,,way
 "Karát utca",,,,way
 "Karatna tér",,,,way
 "Karatna utca",,,,way
-Karaván,,,,way
 "Karcag utca",,,,way
 "Kard utca",,,,way
 "Kardamom köz",,,,way
@@ -2789,7 +2761,6 @@ Karaván,,,,way
 "Kassai köz",,,,way
 "Kassai tér",,,,way
 "Kassai utca",,,,way
-"Kassák Lajos utca",,,,way
 "Kastélymúzeum utca",,,,way
 "Kastélypark utca",,,,way
 "Kasza János utca",,,,way
@@ -2863,7 +2834,6 @@ Karaván,,,,way
 "Kelenvölgyi utca",,,,way
 "Kelep utca",,,,way
 "Kelet utca",,,,way
-"Keleti Károly utca",,,,way
 "Keleti út",,,,way
 "Kelevéz utca",,,,way
 "Kelme utca",,,,way
@@ -2871,7 +2841,6 @@ Karaván,,,,way
 "Keltike lejtő",,,,way
 "Kemence utca",,,,way
 "Kemenes utca",,,,way
-"Kemény Gusztáv utca",,,,relation
 "Kemény István utca",,,,way
 "Kemény Zsigmond utca",,,,way
 "Kémény utca",,,,way
@@ -3053,7 +3022,6 @@ Kiskörút,,,,relation
 "Kisvölgy utca",,,,way
 "Kitaibel Pál utca",,,,way
 "Kitérő út",,,,way
-"Klapka György utca",,,,way
 "Klapka köz",,,,way
 "Klapka tér",,,,way
 "Klapka utca",,,,way
@@ -3064,7 +3032,6 @@ Kiskörút,,,,relation
 "Kléh István utca",,,,way
 "Kneipp ösvény",,,,way
 "Knézich utca",,,,way
-"Knézits Károly utca",,,,way
 "Knézits utca",,,,way
 "Knoll József utca",,,,way
 "Kóborló köz",,,,way
@@ -3405,7 +3372,6 @@ Kiskörút,,,,relation
 "Láva köz",,,,way
 "Láva utca",,,,way
 "Lavotta utca",,,,way
-"Lázár Vilmos utca",,,,way
 "Lázár deák utca",,,,way
 "Lázár utca",,,,relation+way
 "Lea utca",,,,way
@@ -3606,7 +3572,6 @@ M3,,,,way
 "Mádi köz",,,,way
 "Mádi utca",,,,way
 "Madridi utca",,,,way
-"Mády Lajos utca",,,,way
 "Madzsarné Jászi Alice utca",,,,way
 "Mag utca",,,,way
 "Magas út",,,,way
@@ -3825,7 +3790,6 @@ M3,,,,way
 "Mesterházi utca",,,,way
 "Mész utca",,,,way
 "Mészáros József utca",,,,way
-"Mészáros Lőrinc utca",,,,way
 "Mészáros utca",,,,relation
 "Mészégető utca",,,,way
 "Meszes utca",,,,way
@@ -3992,7 +3956,6 @@ Molnár-sziget,,,,relation
 Nagykörút,,,,relation
 "Nagykovácsi út",,,,way
 "Nagykőbánya utca",,,,way
-"Nagykőrösi út",,,,way
 "Nagylegelői utca",,,,way
 "Nagymákfa utca",,,,way
 "Nagymező utca",,,,relation+way
@@ -4372,7 +4335,6 @@ Népliget,,,,way
 "Pancsova utca",,,,way
 "Pándorfalu utca",,,,way
 "Panel utca",,,,way
-"Pannónia út",,,,way
 "Panoráma utca",,,,way
 "Pántlika utca",,,,way
 "Pányva utca",,,,way
@@ -4547,7 +4509,7 @@ Népliget,,,,way
 "Pincér utca",,,,way
 "Pinceszer utca",,,,way
 "Pint utca",,,,way
-"Pintér József utca",,,,way
+"Pintér József utca",,,,relation
 "Pintér utca",,,,way
 "Pinty utca",,,,way
 "Pintyőke utca",,,,way
@@ -4587,7 +4549,6 @@ Népliget,,,,way
 "Pohár utca",,,,way
 "Pók utca",,,,way
 "Polgár utca",,,,way
-"Pöltenberg Ernő utca",,,,way
 "Pöltenberg utca",,,,way
 "Pomázi köz",,,,way
 "Pomázi út",,,,way
@@ -4638,7 +4599,6 @@ Promenád,,,,way
 "Puli köz",,,,way
 "Puli sétány",,,,way
 "Pulszky Ferenc sétány",,,,way
-"Pulszky utca",,,,way
 "Puskapor utca",,,,way
 "Puskás Ferenc utca",,,,way
 "Puskás Öcsi tér",,,,way
@@ -4678,7 +4638,6 @@ Promenád,,,,way
 "Rakéta utca",,,,way
 "Rákóczi Ferenc utca",,,,way
 "Rákóczi tér M",,,,way
-"Rákóczi utca",,,,way
 "Rákóczikert utca",,,,way
 "Rakodó utca",,,,way
 "Rákos köz",,,,way
@@ -4802,7 +4761,7 @@ Promenád,,,,way
 "Riesz Frigyes utca",,,,way
 "Rigmus utca",,,,way
 "Rigó utca",,,,way
-"Rim utca",,,,way
+"Rím utca",,,,way
 "Rimaszombat utca",,,,way
 "Rimaszombati út",,,,way
 "Ringató utca",,,,way
@@ -5016,6 +4975,7 @@ Promenád,,,,way
 "Sipka utca",,,,way
 "Sipos Pál utca",,,,way
 "Sipos tér",,,,way
+"Sirály sétány",,,,way
 "Sirály utca",,,,way
 "Sírkert út",,,,way
 "Sisak utca",,,,way
@@ -5277,7 +5237,6 @@ Széchenyi-sziget,,,,relation
 "Szemafor utca",,,,way
 "Szemere István tér",,,,way
 "Szemere Miklós utca",,,,way
-"Szemere köz",,,,way
 "Szemlőhegy utca",,,,way
 "Szén utca",,,,way
 "Szénás köz",,,,way
@@ -5303,7 +5262,6 @@ Széchenyi-sziget,,,,relation
 "Szent Korona útja",,,,way
 "Szent Lajos tér",,,,way
 "Szent László Gimnázium",,,,way
-"Szent László tér",,,,way
 "Szent László út",,,,way
 "Szent László utca",,,,way
 "Szent Lőrinc sétány",,,,way
@@ -5519,7 +5477,6 @@ Szuperkör,,,,way
 "Takarék utca",,,,way
 "Takaros utca",,,,way
 "Taksony sor",,,,way
-"Taksony utca",,,,way
 "Talaj utca",,,,way
 "Tálas utca",,,,way
 "Taliga utca",,,,way
@@ -5676,7 +5633,6 @@ Szuperkör,,,,way
 "Textilgyár utca",,,,way
 "Thallóczy Lajos utca",,,,way
 "Thék Endre utca",,,,way
-"Thököly utca",,,,way
 "Thomán István utca",,,,way
 "Thorma János utca",,,,way
 "Thorotzkay Péter gróf utca",,,,way
@@ -5694,7 +5650,6 @@ Szuperkör,,,,way
 "Timföld utca",,,,way
 "Timót utca",,,,way
 "Timur utca",,,,way
-"Tinódi utca",,,,way
 "Tinóru utca",,,,way
 "Tippan utca",,,,way
 "Tisza István utca",,,,way
@@ -5745,7 +5700,6 @@ Szuperkör,,,,way
 "Töltés köz",,,,way
 "Töltés tér",,,,way
 "Töltés utca",,,,way
-"Tom Lantos sétány",,,,way
 "Tomaj utca",,,,way
 "Tómalom utca",,,,way
 "Tömb utca",,,,way
@@ -5756,7 +5710,6 @@ Szuperkör,,,,way
 "Tömös utca",,,,way
 "Tompa Mihály utca",,,,way
 "Tompa köz",,,,way
-"Tompa utca",,,,way
 "Tompaház utca",,,,way
 "Tonyó dűlő",,,,way
 "Topánka utca",,,,way
@@ -5783,7 +5736,6 @@ Szuperkör,,,,way
 "Torockó tér",,,,way
 "Torockó utca",,,,way
 "Török Bálint utca",,,,way
-"Török Ignác utca",,,,way
 "Török Pál utca",,,,way
 "Török köz",,,,way
 "Török utca",,,,way
@@ -6024,9 +5976,7 @@ Szuperkör,,,,way
 "Vajda János utca",,,,way
 "Vajda Lajos sétány",,,,way
 "Vajda utca",,,,way
-"Vajdahunyad sétány",,,,way
 "Vajk fejedelem utca",,,,way
-"Vajk utca",,,,way
 "Vakond utca",,,,way
 "Valéria utca",,,,way
 "Váltó köz",,,,way
@@ -6232,7 +6182,6 @@ Virágpiac,,,,way
 "Vitorlázó út",,,,way
 "Vívó utca",,,,way
 "Viza utca",,,,way
-"Vizafogó sétány",,,,way
 "Vizafogó utca",,,,way
 "Vízakna utca",,,,way
 "Vízér utca",,,,way
@@ -6339,7 +6288,6 @@ Virágpiac,,,,way
 "Zakariás József utca",,,,way
 "Zala György utca",,,,way
 "Zala utca",,,,way
-"Zalaegerszeg utca",,,,way
 "Zalai út",,,,way
 "Zalán utca",,,,way
 "Zaláta utca",,,,way
