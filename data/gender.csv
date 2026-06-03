@@ -84,7 +84,7 @@ Dunakorzó,wikidata,-,Q1653,way
 "Érdi utca",wikidata,-,Q193050,way
 "Eszék utca",wikidata,-,Q1640,way
 "Fehérvári út",wikidata,-,Q130212,relation+way
-"Ferenciek tere",wikidata,-,Q17123204,way
+"Ferenciek tere",wikidata,-,Q17123204,relation+way
 "Ferihegyi repülőtérre vezető út",wikidata,-,Q500945,relation+way
 "Ferihegyi út",wikidata,-,Q1000638,relation+way
 "Fiumei út",wikidata,-,Q1647,relation+way
@@ -274,7 +274,7 @@ Oktogon,wikidata,-,Q166080,relation+way
 "Szépvölgyi út",wikidata,-,Q1303159,relation+way
 "Szerémi sor",wikidata,-,Q1309492,way
 "Szerencs utca",wikidata,-,Q854996,way
-"Szervita tér",wikidata,-,Q792572,way
+"Szervita tér",wikidata,-,Q615923,way
 "Szigetvár utca",wikidata,-,Q373542,way
 "Szigetvári utca",wikidata,-,Q373542,way
 "Szinva utca",wikidata,-,Q925628,relation
@@ -375,6 +375,7 @@ Oktogon,wikidata,-,Q166080,relation+way
 "Laborfalvi Róza utca",wikidata,F,Q715128,relation
 "Lebstück Mária utca",wikidata,F,Q443502,relation
 "Lilla utca",wikidata,F,Q1400964,way
+"Lorántffy Zsuzsanna utca",wikidata,F,Q718067,relation
 "Maderspach Károlyné utca",wikidata,F,Q63413686,way
 "Margit híd",wikidata,F,Q232031,relation
 "Margit körút",wikidata,F,Q232031,way
@@ -467,6 +468,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Bíró Lajos utca",wikidata,M,Q854780,relation
 "Bláthy Ottó utca",wikidata,M,Q384387,relation
 "Bocskai út",wikidata,M,Q316530,relation+way
+"Bocskai utca",wikidata,M,Q316530,relation+way
 "Bogdánfy utca",wikidata,M,Q24288232,way
 "Bókay János utca",wikidata,M,Q854929,relation
 "Boldog XI. Ince pápa utca",wikidata,M,Q101286,way
@@ -585,6 +587,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "II. János Pál pápa tér",wikidata,M,Q989,relation
 "Id. Antall József rakpart",wikidata,M,Q355907,way
 "Illek Vince utca",wikidata,M,Q136700905,relation
+"Irányi Dániel utca",wikidata,M,Q930952,relation+way
 "Irányi utca",wikidata,M,Q930952,way
 "Irinyi József utca",wikidata,M,Q261913,way
 "Izsó utca",wikidata,M,Q1099003,way
@@ -610,7 +613,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Karácsony Sándor utca",wikidata,M,Q112208165,way
 "Karikás Frigyes utca",wikidata,M,Q12348044,way
 "Karinthy Frigyes út",wikidata,M,Q366325,relation
-"Kármán utca",wikidata,M,Q897095,relation
+"Kármán utca",wikidata,M,Q897095,relation+way
 "Károli Gáspár tér",wikidata,M,Q304346,way
 "Károlyi István utca",wikidata,M,Q1123485,relation
 "Kassák Lajos utca",wikidata,M,Q736847,way
@@ -619,6 +622,8 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Keleti Károly utca",wikidata,M,Q282047,way
 "Kemal Atatürk sétaút",wikidata,M,Q5152,relation
 "Kemény Gusztáv utca",wikidata,M,Q138913494,relation
+"Kinizsi utca",wikidata,M,Q239785,way
+"Király utca",wikidata,M,Q139974034,relation
 "Királyi Pál utca",wikidata,M,Q1545116,relation
 "Kisfaludy utca",wikidata,M,Q927190,relation+way
 "Kiss Ernő utca",wikidata,M,Q699111,relation+way
@@ -663,6 +668,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Langlet Waldemár utca",wikidata,M,Q52570,relation
 "Latabár Kálmán utca",wikidata,M,Q223611,relation
 "Laufenauer utca",wikidata,M,Q11751831,way
+"Lavotta utca",wikidata,M,Q667236,way
 "Lázár Vilmos utca",wikidata,M,Q1160402,relation+way
 "Lechner Ödön fasor",wikidata,M,Q294065,relation
 "Lehel tér",wikidata,M,Q1044288,way
@@ -681,6 +687,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Lukács György utca",wikidata,M,Q151523,relation
 "Luther utca",wikidata,M,Q9554,relation
 "Lőrinc pap tér",wikidata,M,Q25466353,relation+way
+"Lőwy Izsák utca",wikidata,M,Q368617,relation
 "Madách Imre tér",wikidata,M,Q366331,way
 "Madách Imre út",wikidata,M,Q366331,relation+way
 "Mády Lajos utca",wikidata,M,Q57448818,relation

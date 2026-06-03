@@ -323,6 +323,7 @@ Alakulótér,,,,way
 "Árpád fejedelem utca",,,,way
 "Árpád utca",,,,way
 "Árpád úti felüljáró",,,,way
+"Árpád üzletház",,,,way
 "Árpád-házi Szent Erzsébet park",,,,way
 "Árpádföldi tér",,,,way
 "Árpádföldi út",,,,way
@@ -399,7 +400,6 @@ Alakulótér,,,,way
 "Bajza köz",,,,way
 "Baka utca",,,,way
 "Bakancsos utca",,,,way
-"Bakancsos utcai piac",,,,way
 "Bakáts utca",,,,way
 "Bakfű utca",,,,way
 "Bakonybánk utca",,,,way
@@ -628,7 +628,6 @@ Alakulótér,,,,way
 "Bóbita utca",,,,way
 "Bóbitás út",,,,way
 "Bocskai István utca",,,,way
-"Bocskai utca",,,,way
 "Bocskaikert utca",,,,way
 "Bod Péter lejtő",,,,way
 "Bod Péter utca",,,,way
@@ -2471,7 +2470,6 @@ Hűvösvölgy,,,,way
 "Ipolyság utca",,,,way
 "Iram utca",,,,way
 "Irány utca",,,,way
-"Irányi Dániel utca",,,,way
 "Írás utca",,,,way
 "Irén utca",,,,way
 "Irha utca",,,,way
@@ -2941,9 +2939,7 @@ Kálvária,,,,way
 "Kincsem köz",,,,way
 "Kincses utca",,,,way
 "Kinizsi Pál utca",,,,way
-"Kinizsi utca",,,,way
 "Király lépcső",,,,way
-"Király utca",,,,relation
 "Király utca / Erzsébet körút",,,,way
 "Királyfürdő utca",,,,way
 "Királyhágó köz",,,,way
@@ -3371,7 +3367,6 @@ Kiskörút,,,,relation
 "Laura út",,,,way
 "Láva köz",,,,way
 "Láva utca",,,,way
-"Lavotta utca",,,,way
 "Lázár deák utca",,,,way
 "Lázár utca",,,,relation+way
 "Lea utca",,,,way
@@ -3491,7 +3486,6 @@ Kiskörút,,,,relation
 "Lóránt út",,,,way
 "Lorántffy Zsuzsanna lépcső",,,,way
 "Lorántffy Zsuzsanna út",,,,way
-"Lorántffy Zsuzsanna utca",,,,way
 "Lórév utca",,,,way
 "Losonc utca",,,,way
 "Losonci utca",,,,way
@@ -3546,7 +3540,6 @@ Kiskörút,,,,relation
 "Lőrinci út",,,,way
 "Lőrincz utca",,,,way
 "Lőtér utca",,,,way
-"Lőwy Izsák utca",,,,way
 M1,,,,way
 M2,,,,way
 M3,,,,way
@@ -4102,7 +4095,6 @@ Népliget,,,,way
 "Nyomdász utca",,,,way
 "Nyomdok utca",,,,way
 "Nyugati Átjáró Üzletközpont",,,,way
-"Nyugati aluljáró",,,,relation
 "Nyugati pályaudvar",,,,relation
 "Nyugati pályaudvar M",,,,way
 "Nyugati téri felüljáró",,,,way
@@ -5365,6 +5357,7 @@ Széchenyi-sziget,,,,relation
 "Szindbád utca",,,,relation
 "Színes utca",,,,way
 "Színesfém utca",,,,way
+"Színház köz",,,,way
 "Színház utca",,,,way
 "Színjátszó utca",,,,way
 "Szipka utca",,,,way
@@ -5617,6 +5610,7 @@ Szuperkör,,,,way
 "Tersánszky Józsi Jenő sétány",,,,way
 "Terv utca",,,,way
 "Tervező utca",,,,way
+"Tesco átjáró",,,,way
 "Tessedik tér",,,,way
 "Testvér köz",,,,way
 "Testvérhegyi köz",,,,way
