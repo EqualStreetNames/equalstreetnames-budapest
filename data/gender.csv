@@ -369,6 +369,7 @@ Oktogon,wikidata,-,Q166080,relation+way
 "Izabella utca",wikidata,F,Q235591,relation
 "Jane Haining rakpart",wikidata,F,Q595695,way
 "Jászai Mari tér",wikidata,F,Q220488,way
+"Klára utca",wikidata,F,Q113039126,relation
 "Komlós Juci köz",wikidata,F,Q674580,way
 "Krisztina körút",wikidata,F,Q167439,way
 "Kunigunda útja",wikidata,F,Q233012,relation
@@ -472,6 +473,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Bogdánfy utca",wikidata,M,Q24288232,way
 "Bókay János utca",wikidata,M,Q854929,relation
 "Boldog XI. Ince pápa utca",wikidata,M,Q101286,way
+"Bolyai Farkas utca",wikidata,M,Q252311,relation
 "Boráros tér",wikidata,M,Q848158,relation
 "Botond utca",wikidata,M,Q848479,way
 "Bródy Sándor utca",wikidata,M,Q738786,relation
@@ -560,6 +562,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Gundel Károly út",wikidata,M,Q1028770,way
 "Gutenberg tér",wikidata,M,Q8958,relation
 "Gyulai Pál utca",wikidata,M,Q898398,relation+way
+"Gyulai tér",wikidata,M,Q898398,relation
 "Győrffy István utca",wikidata,M,Q379279,relation
 "Hadrianus utca",wikidata,M,Q1427,relation
 "Hajnóczy József utca",wikidata,M,Q1032758,way
@@ -622,7 +625,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Keleti Károly utca",wikidata,M,Q282047,way
 "Kemal Atatürk sétaút",wikidata,M,Q5152,relation
 "Kemény Gusztáv utca",wikidata,M,Q138913494,relation
-"Kinizsi utca",wikidata,M,Q239785,way
+"Kinizsi utca",wikidata,M,Q239785,relation+way
 "Király utca",wikidata,M,Q139974034,relation
 "Királyi Pál utca",wikidata,M,Q1545116,relation
 "Kisfaludy utca",wikidata,M,Q927190,relation+way
@@ -690,6 +693,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Lőwy Izsák utca",wikidata,M,Q368617,relation
 "Madách Imre tér",wikidata,M,Q366331,way
 "Madách Imre út",wikidata,M,Q366331,relation+way
+"Madách utca",wikidata,M,Q366331,relation+way
 "Mády Lajos utca",wikidata,M,Q57448818,relation
 "Madzsar József utca",wikidata,M,Q1161528,relation
 "Magyari István utca",wikidata,M,Q1162713,way
@@ -723,6 +727,7 @@ Margit-sziget,wikidata,F,Q232031,relation
 "Németh László utca",wikidata,M,Q303480,relation
 "Neumann János utca",wikidata,M,Q17455,way
 "Ocskay László út",wikidata,M,Q1223133,way
+"Ódry Árpád utca",wikidata,M,Q1471619,relation
 "Olof Palme sétány",wikidata,M,Q53713,way
 "Orczy tér",wikidata,M,Q1225286,relation+way
 "Orczy út",wikidata,M,Q1225286,relation
