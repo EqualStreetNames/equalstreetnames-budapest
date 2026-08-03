@@ -323,7 +323,6 @@ Alakulótér,,,,way
 "Árpád fejedelem utca",,,,way
 "Árpád utca",,,,way
 "Árpád úti felüljáró",,,,way
-"Árpád üzletház",,,,way
 "Árpád-házi Szent Erzsébet park",,,,way
 "Árpádföldi tér",,,,way
 "Árpádföldi út",,,,way
@@ -1793,7 +1792,6 @@ Csepel-sziget,,,,relation
 "Gábor Áron köz",,,,way
 "Gábor Áron utca",,,,way
 "Gábor Dénes utca",,,,way
-"Gábor Ignác park",,,,way
 "Gábor utca",,,,way
 "Gács utca",,,,way
 "Gádor utca",,,,way
@@ -2932,6 +2930,7 @@ Kálvária,,,,way
 "Kinizsi Pál utca",,,,way
 "Király lépcső",,,,way
 "Király utca / Erzsébet körút",,,,way
+"Királyerdő út",,,,relation
 "Királyfürdő utca",,,,way
 "Királyhágó köz",,,,way
 "Királyhágó út",,,,way
@@ -4762,6 +4761,7 @@ Promenád,,,,way
 "Római part",,,,way
 "Római sétány",,,,way
 "Római tér",,,,way
+"Római út",,,,way
 "Római utca",,,,way
 "Román utca",,,,way
 "Romhány utca",,,,way
@@ -5017,6 +5017,7 @@ Promenád,,,,way
 "Stefan Wyszyński utca",,,,way
 "Stefánia utca",,,,way
 Stöckl-lépcső,,,,way
+"Strand lépcső",,,,way
 "Strand sétány",,,,way
 "Strázsahegy utca",,,,way
 "Strázsahegyi dűlő",,,,way
