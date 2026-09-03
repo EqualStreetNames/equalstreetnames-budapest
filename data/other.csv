@@ -761,6 +761,7 @@ Alakulótér,,,,way
 "Budafok kocsiszín",,,,way
 Budagyöngye,,,,way
 "Budajenő utca",,,,way
+"Budapest, Népliget autóbusz-állomás",,,,way
 "Budapesti út",,,,way
 "Budatétényi utca",,,,way
 "Buday László utca",,,,way
@@ -916,6 +917,7 @@ Budagyöngye,,,,way
 "Csengőd utca",,,,way
 "Csenkesz utca",,,,way
 "Csépa utca",,,,way
+"Csepel rakpart",,,,way
 Csepel-sziget,,,,relation
 "Csepeli Mátyás utca",,,,way
 "Csepeli átjáró",,,,way
@@ -1089,6 +1091,7 @@ Csepel-sziget,,,,relation
 "Dagály utca",,,,way
 "Dagálysétány utca",,,,way
 "Dal utca",,,,way
+"Dalai láma út",,,,way
 "Dalárda utca",,,,way
 "Dália utca",,,,way
 "Dalkör utca",,,,way
@@ -1775,7 +1778,6 @@ Csepel-sziget,,,,relation
 "Fő utca",,,,relation+way
 "Főhadnagy utca",,,,way
 "Főtér passzázs",,,,way
-"Fővám tér M",,,,way
 "Fű utca",,,,way
 "Fűrész köz",,,,way
 "Fűszer utca",,,,way
@@ -2270,6 +2272,7 @@ Csepel-sziget,,,,relation
 "Hidász utca",,,,way
 "Hideg utca",,,,way
 "Hidegkuti Nándor utca",,,,way
+"Hídépítő utca",,,,way
 "Hídfő utca",,,,way
 "Hídláb utca",,,,way
 "Hidroplán utca",,,,way
@@ -2352,6 +2355,7 @@ Csepel-sziget,,,,relation
 "Hóvirág út",,,,way
 "Hóvirág utca",,,,way
 "Hrivnák Pál utca",,,,way
+"Hszie Si-kuang püspök út",,,,way
 "Huba utca",,,,way
 "Huba vezér utca",,,,way
 "Hubay Jenő utca",,,,way
@@ -2930,7 +2934,6 @@ Kálvária,,,,way
 "Kinizsi Pál utca",,,,way
 "Király lépcső",,,,way
 "Király utca / Erzsébet körút",,,,way
-"Királyerdő út",,,,relation
 "Királyfürdő utca",,,,way
 "Királyhágó köz",,,,way
 "Királyhágó út",,,,way
@@ -2945,10 +2948,10 @@ Kálvária,,,,way
 "Királyok útja",,,,relation
 "Kiránduló utca",,,,way
 "Kirgiz utca",,,,way
-"Kis Csikós köz",,,,way
 "Kis Diófa utca",,,,relation
 "Kis Fenyves köz",,,,way
 "Kis Fuvaros utca",,,,way
+"Kis Kőbánya utca",,,,way
 "Kis Rákos utca",,,,way
 "Kis Rókus utca",,,,way
 "Kis Salétrom utca",,,,way
@@ -2958,7 +2961,6 @@ Kálvária,,,,way
 "Kis-Duna sor",,,,way
 "Kis-Duna utca",,,,way
 "Kis-Káros-híd utca",,,,way
-"Kis-Kevély utca",,,,way
 "Kisasszony utca",,,,way
 "Kisasszonyfa utca",,,,way
 "Kisbacon utca",,,,way
@@ -2967,6 +2969,7 @@ Kálvária,,,,way
 "Kiscelli köz",,,,way
 "Kiscelli lejtő",,,,way
 "Kiscelli utca",,,,way
+"Kiscsikós köz",,,,way
 "Kiscsillag utca",,,,way
 "Kisdomb utca",,,,way
 "Kiserdő utca",,,,way
@@ -2977,12 +2980,12 @@ Kálvária,,,,way
 "Kishalom utca",,,,way
 "Kiskalmár utca",,,,way
 "Kiskert utca",,,,way
+"Kiskevély utca",,,,way
 "Kiskócsag utca",,,,way
 "Kisködmön utca",,,,way
 "Kiskorona utca",,,,way
 Kiskörút,,,,relation
 "Kiskút utca",,,,way
-"Kiskőbánya utca",,,,way
 "Kiskőrös utca",,,,way
 "Kiskőszeg utca",,,,way
 "Kislilik utca",,,,way
@@ -3228,6 +3231,7 @@ Kiskörút,,,,relation
 "Külső Mester utca",,,,way
 "Külső Szilágyi út",,,,way
 "Külső Vörösmarty utca",,,,way
+"Külső kerületi körút",,,,way
 "Külső raktár körút",,,,way
 "Kun utca",,,,relation+way
 "Kund utca",,,,way
@@ -3908,12 +3912,12 @@ Molnár-sziget,,,,relation
 "Nagy Győry István köz",,,,way
 "Nagy Győry István utca",,,,way
 "Nagy Jenő utca",,,,way
+"Nagy Kőbánya utca",,,,way
 "Nagy Lajos körút",,,,way
 "Nagy Templom utca",,,,way
 "Nagy-Hangács köz",,,,way
 "Nagy-Hangács utca",,,,way
 "Nagy-Káros-híd dűlő",,,,way
-"Nagy-Kevély utca",,,,way
 "Nagyajtai utca",,,,way
 "Nagybánya utca",,,,way
 "Nagybányai lépcső",,,,way
@@ -3931,10 +3935,10 @@ Molnár-sziget,,,,relation
 "Nagykanizsa utca",,,,way
 "Nagykapos utca",,,,way
 "Nagykároly utca",,,,way
+"Nagykevély utca",,,,way
 "Nagykikinda utca",,,,way
 Nagykörút,,,,relation
 "Nagykovácsi út",,,,way
-"Nagykőbánya utca",,,,way
 "Nagylegelői utca",,,,way
 "Nagymákfa utca",,,,way
 "Nagymező utca",,,,relation+way
@@ -4083,6 +4087,7 @@ Népliget,,,,way
 "Nyugati Átjáró Üzletközpont",,,,way
 "Nyugati pályaudvar",,,,relation
 "Nyugati pályaudvar M",,,,way
+"Nyugati tér aluljáró",,,,relation
 "Nyugati téri felüljáró",,,,way
 "Nyugati út",,,,way
 "Nyúl utca",,,,way
@@ -5050,6 +5055,7 @@ Stöckl-lépcső,,,,way
 "Svachulay Sándor utca",,,,way
 "Svájci út",,,,way
 "Szabács utca",,,,way
+"Szabad Hongkong út",,,,way
 "Szabad köz",,,,way
 "Szabad rét utca",,,,way
 "Szabad sajtó út",,,,relation
@@ -5836,6 +5842,7 @@ Szuperkör,,,,way
 "Újbor utca",,,,way
 "Újbuda-központ, aluljáró",,,,way
 "Újfalusi út",,,,way
+"Ujgur mártírok útja",,,,way
 "Újház utca",,,,way
 "Újházy utca",,,,way
 "Újhegyi sétány",,,,way
@@ -5849,6 +5856,7 @@ Szuperkör,,,,way
 "Újmajori dűlő",,,,way
 "Újmajori utca",,,,way
 "Újpalotai út",,,,way
+"Újpest-Központ aluljáró",,,,way
 "Újpest-központ M",,,,way
 "Újpesti Erőmű",,,,way
 "Újpesti rakpart",,,,way
